@@ -21,12 +21,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/cfootnation-byte/SimplePaintFree/releases/download/v1.0.0/demo.mp4">
-    <img src="../media/demo.gif" alt="SimplePaint Demo" width="720" />
-  </a>
-</p>
-
 ## Introduction
 
 SimplePaint is an illustration & webtoon creation tool where AI automates everything from lineart to coloring and shading.

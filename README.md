@@ -21,12 +21,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/cfootnation-byte/SimplePaintFree/releases/download/v1.0.0/demo.mp4">
-    <img src="media/demo.gif" alt="SimplePaint Demo" width="720" />
-  </a>
-</p>
-
 ## 소개
 
 SimplePaint는 선화부터 채색, 명암까지 AI가 자동화하는 일러스트 & 웹툰 제작 도구입니다.
