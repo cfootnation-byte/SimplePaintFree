@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://simplepaint.pages.dev/favicon.ico" width="80" />
-</p>
 
 <h1 align="center">SimplePaint</h1>
 
