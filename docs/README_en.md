@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <video src="../media/demo.mp4" width="720" controls></video>
+</p>
+
 ## Introduction
 
 SimplePaint is an illustration & webtoon creation tool where AI automates everything from lineart to coloring and shading.
@@ -191,14 +195,6 @@ Enter your keys in **Settings → API Settings** after launching the app.
 2. Run the downloaded installer file.
 3. Follow the installation wizard to complete setup.
 4. Launch SimplePaint and configure your API keys.
-
----
-
-## Links
-
-- [Official Website](https://simplepaint.pages.dev)
-- [Documentation](https://simplepaint.pages.dev/docs)
-- [Pro Version](https://simplepaint.pages.dev/pricing) — Server-based AI, no API key setup needed
 
 ---
 

@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <video src="../media/demo.mp4" width="720" controls></video>
+</p>
+
 ## 紹介
 
 SimplePaintは、線画から着色、陰影までAIが自動化するイラスト＆ウェブトゥーン制作ツールです。
@@ -191,14 +195,6 @@ SimplePaint Freeはご自身のAPIキーを使用します。AI機能を利用�
 2. ダウンロードしたインストーラーファイルを実行します。
 3. インストールウィザードの指示に従ってセットアップを完了します。
 4. SimplePaintを起動してAPIキーを設定します。
-
----
-
-## リンク
-
-- [公式ウェブサイト](https://simplepaint.pages.dev)
-- [ドキュメント](https://simplepaint.pages.dev/docs)
-- [Pro版](https://simplepaint.pages.dev/pricing) — サーバーベースAI、APIキー設定不要ですぐ利用可能
 
 ---
 

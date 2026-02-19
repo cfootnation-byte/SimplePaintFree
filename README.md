@@ -21,13 +21,9 @@
 
 ---
 
-<!-- 데모 영상: 아래 주석을 해제하고 URL을 교체하세요 -->
-<!-- GitHub Issue에 영상을 드래그하면 호스팅 URL을 얻을 수 있습니다 -->
-<!--
 <p align="center">
-  <video src="YOUR_VIDEO_URL_HERE" width="720" controls></video>
+  <video src="media/demo.mp4" width="720" controls></video>
 </p>
--->
 
 ## 소개
 
@@ -199,14 +195,6 @@ SimplePaint Free는 사용자 본인의 API 키를 사용합니다. AI 기능을
 2. 다운로드한 설치 파일을 실행합니다.
 3. 설치 마법사의 안내를 따라 설치를 완료합니다.
 4. SimplePaint를 실행하고 API 키를 설정합니다.
-
----
-
-## 관련 링크
-
-- [공식 웹사이트](https://simplepaint.pages.dev)
-- [공식 문서](https://simplepaint.pages.dev/docs)
-- [Pro 버전](https://simplepaint.pages.dev/pricing) — 서버 기반 AI, API 키 설정 없이 바로 사용
 
 ---
 
