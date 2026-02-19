@@ -21,9 +21,7 @@
 
 ---
 
-<p align="center">
-  <video src="../media/demo.mp4" width="720" controls></video>
-</p>
+https://github.com/cfootnation-byte/SimplePaintFree/raw/main/media/demo.mp4
 
 ## Introduction
 
